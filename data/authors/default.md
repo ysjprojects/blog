@@ -15,6 +15,6 @@ I have a strong passion for infocomm technology and have had the opportunity to 
 
 I intend to take on Financial Analytics and Machine Learning specializations for my Business Analytics major. My interest in Financial Analytics extends to Decentralized Finance (DeFi), a field that I have been exploring with great enthusiasm.
 
-When I'm not working on my studies, I enjoy staying active through activities like going to the gym, cycling, and playing the piano. Recently, I've even tried my hand at bouldering and have been having a great time. In the future, I hope to pick up even more hobbies and make the most of my time exploring the world.
+When I'm not working on my studies, I enjoy staying active through activities like going to the gym, cycling, bouldering, and playing the piano.
 
 Thank you for taking the time to get to know me better. If you like to know more about me, feel free to check out my [personal website](https://www.sjyu.xyz). Cheers!
