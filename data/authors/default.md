@@ -1,16 +1,20 @@
 ---
-name: Tails Azimuth
+name: Yu Shi Jie
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Student
+company: National University of Singapore
+email: yshijie1999@gmail.com
+twitter: https://twitter.com/sjyuxyz
+linkedin: https://www.linkedin.com/in/sjyuxyz/
+github: https://github.com/ysjprojects
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+I am a student at the National University of Singapore (NUS) studying Business Analytics.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+I have a strong passion for infocomm technology and have had the opportunity to participate in various hackathons, winning a few along the way. In my free time, I love working on side projects such as full-stack web applications, decentralized applications, and machine learning/deep learning projects.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I intend to take on Financial Analytics and Machine Learning specializations for my Business Analytics major. My interest in Financial Analytics extends to Decentralized Finance (DeFi), a field that I have been exploring with great enthusiasm.
+
+When I'm not working on my studies, I enjoy staying active through activities like going to the gym, cycling, and playing the piano. Recently, I've even tried my hand at bouldering and have been having a great time. In the future, I hope to pick up even more hobbies and make the most of my time exploring the world.
+
+Thank you for taking the time to get to know me better. If you like to know more about me, feel free to check out my [personal website](https://www.sjyu.xyz). Cheers!

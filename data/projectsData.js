@@ -1,19 +1,15 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'SocialShield',
+    description: `The internet, especially Twitter, can be a dangerous place for unsupervised minors and other vulnerable demographics. SocialShield utilizes a unique algorithm in tandem with sentiment analysis via NLP to flag Twitter profiles posting harmful content and filter their posts accordingly.`,
+    imgSrc: '/static/images/projects/socialshield.png',
+    href: 'https://chrome.google.com/webstore/detail/socialshield/fkiekmmeinddmjcgnoegicnfjccipiml?hl=en',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Pixel Protocol',
+    description: `"The Million Dollar Homepage of the web3 era", except that Pixel Protocol is much more than that. It is a decentralized public canvas where the ownership of every pixel is represented by an NFT. Our end goal is to transform Pixel Protocol into an all-encompassing ecosystem with gamification, DAO governance, community building, free expression through pixels and much more.`,
+    imgSrc: '/static/images/projects/pixelprotocol.png',
+    href: 'https://www.pixelprotocol.net',
   },
 ]
 
