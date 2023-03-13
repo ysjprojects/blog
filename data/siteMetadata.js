@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: `SJ's Ruminations`,
+  title: `SJ's Opus`,
   author: 'Yu Shi Jie',
-  headerTitle: `SJ's Ruminations`,
+  headerTitle: `SJ's Opus`,
   description: 'A personal blog for whatever that comes to mind',
   language: 'en-us',
   theme: 'system', // system, dark or light
@@ -12,7 +12,7 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'yshijie1999@gmail.com',
   github: 'https://github.com/ysjprojects',
-  twitter: 'https://twitter.com/sjyuxyz',
+  twitter: 'https://twitter.com/web3dotsj',
   linkedin: 'https://www.linkedin.com/in/sjyuxyz',
   locale: 'en-US',
   analytics: {
