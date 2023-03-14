@@ -1,6 +1,6 @@
 const siteMetadata = {
   title: `SJ's Opus`,
-  author: 'Yu Shi Jie',
+  author: 'SJ',
   headerTitle: `SJ's Opus`,
   description: 'A personal blog for whatever that comes to mind',
   language: 'en-us',

@@ -1,5 +1,5 @@
 ---
-name: Yu Shi Jie
+name: SJ
 avatar: /static/images/avatar.png
 occupation: Student
 company: National University of Singapore
